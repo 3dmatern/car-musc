@@ -1,4 +1,4 @@
 # car-musc
-# Ещё без адаптивности
-# jQuery, Bootstrap
-# Форма отправляет заявку на почту PHPMailer
+ Ещё без адаптивности
+ |jQuery, Bootstrap, PHPMailer|
+ Форма отправляет заявку на почту 
